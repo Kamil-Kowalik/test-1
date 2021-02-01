@@ -1,0 +1,17 @@
+body {
+    display: -ms-flexbox;
+    display: flex;
+}
+
+h2 {
+    margin: 60px 0 0 10px;
+}
+h4 {
+   margin-left: 10px;
+   color: grey;
+}
+p {
+    margin-left: 20px;
+    font-style: italic;
+    line-height: 2;
+}
